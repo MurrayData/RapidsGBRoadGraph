@@ -15,4 +15,6 @@ Adapted from NVIDIA cuGraph SSSP example notebook licensed under Apache License 
 
 To to run, copy the cloned archive to your Rapids Notebooks folder.
 
-Then download the OS OpenRoads Graph from here and store the csv file in a subfolder named data.
+Then download the OS OpenRoads Graph [from here](https://urli.uk/1THFGU) and store the csv file in a subfolder named data.
+
+If you want Coordinates for the nodes, both in OSGB36 Easting & Northing and WGS84 Latitude & Longitude, [download this file](https://urli.uk/C5T6UU).
