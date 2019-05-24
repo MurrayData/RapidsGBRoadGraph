@@ -14,3 +14,5 @@ Licensed under [Open Government Licence (OGL) V3](http://www.nationalarchives.go
 Adapted from NVIDIA cuGraph SSSP example notebook licensed under Apache License 2.0
 
 To to run, copy the cloned archive to your Rapids Notebooks folder.
+
+Then download the OS OpenRoads Graph from here and store the csv file in a subfolder named data.
