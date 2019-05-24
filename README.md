@@ -18,3 +18,5 @@ To to run, copy the cloned archive to your Rapids Notebooks folder.
 Then download the OS OpenRoads Graph [from here](https://urli.uk/1THFGU) and store the csv file in a subfolder named data.
 
 If you want Coordinates for the nodes, both in OSGB36 Easting & Northing and WGS84 Latitude & Longitude, [download this file](https://urli.uk/C5T6UU).
+
+If you publish any results, please [credit Ordnance Survey](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html).
