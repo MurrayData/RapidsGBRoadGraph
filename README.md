@@ -20,3 +20,9 @@ Then download the OS OpenRoads Graph [from here](https://urli.uk/1THFGU) and sto
 If you want Coordinates for the nodes, both in OSGB36 Easting & Northing and WGS84 Latitude & Longitude, [download this file](https://urli.uk/C5T6UU).
 
 If you publish any results, please [credit Ordnance Survey](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html).
+
+# Further Reading
+* [Ordnance Survey Open Roads Description](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-roads.html)
+* [Ordnance Survey Open Roads Documentation](https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/products/os-open-roads.html)
+
+**_Disclaimer:_** *Not to be used for navigation purposes.*
